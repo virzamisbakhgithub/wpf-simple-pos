@@ -1,0 +1,11 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Login 01\Login 01\bin\Debug\Login 01.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Login 01\Login 01\obj\Debug\Login 01.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Login 01\Login 01\obj\Debug\Login_01.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Login 01\Login 01\obj\Debug\Login_01.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Login 01\Login 01\obj\Debug\Login 01.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Login 01\Login 01\bin\Debug\Login 01.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Login 01\Login 01\bin\Debug\Login 01.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Login 01\Login 01\obj\Debug\Login 01.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Login 01\Login 01\obj\Debug\Login 01.pdb
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Login 01\Login 01\obj\Debug\Login_01.Forms.Form_Dashboard.resources
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Login 01\Login 01\bin\Debug\SLRDbConnector.dll

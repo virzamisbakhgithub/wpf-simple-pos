@@ -1,0 +1,32 @@
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Login 01\Login 01\bin\Debug\Login 01.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Login 01\Login 01\obj\Debug\Login 01.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Login 01\Login 01\obj\Debug\Login 01.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Puri Suma Surabaya\Puri Suma Surabaya\bin\Debug\Login 01.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Login 01.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Login 01.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Puri Suma Surabaya\Puri Suma Surabaya\bin\Debug\Login 01.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Puri Suma Surabaya\Puri Suma Surabaya\bin\Debug\Login 01.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Puri Suma Surabaya\Puri Suma Surabaya\bin\Debug\SLRDbConnector.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Puri Suma Surabaya.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Login_01.Form1.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Login_01.Forms.Form_Dashboard.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Login_01.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Puri Suma Surabaya.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Login_01.Forms.Form_TambahProyek.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Login_01.UserControls.UC_Dashboard.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Login_01.UserControls.UC_Proyek.resources
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\bin\Debug\Login 01.exe.config
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Login 01.exe
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Login 01.pdb
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\bin\Debug\Login 01.exe
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\bin\Debug\Login 01.pdb
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Puri Suma Surabaya.csprojResolveAssemblyReference.cache
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Login_01.Form1.resources
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Login_01.Forms.Form_Dashboard.resources
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Login_01.Forms.Form_TambahProyek.resources
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Login_01.Properties.Resources.resources
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Login_01.UserControls.UC_Dashboard.resources
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Login_01.UserControls.UC_Kontraktor.resources
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Login_01.UserControls.UC_Proyek.resources
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Puri Suma Surabaya.csproj.GenerateResource.Cache
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Debug\Login_01.Forms.Form_ProyekBerjalan.resources

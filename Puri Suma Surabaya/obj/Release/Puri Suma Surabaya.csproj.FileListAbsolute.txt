@@ -1,0 +1,11 @@
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\bin\Release\Login 01.exe.config
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Release\Puri Suma Surabaya.csprojResolveAssemblyReference.cache
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Release\Login_01.Form1.resources
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Release\Login_01.Forms.Form_Dashboard.resources
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Release\Login_01.Forms.Form_ProyekBerjalan.resources
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Release\Login_01.Forms.Form_TambahProyek.resources
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Release\Login_01.Properties.Resources.resources
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Release\Login_01.UserControls.UC_Dashboard.resources
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Release\Login_01.UserControls.UC_Kontraktor.resources
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Release\Login_01.UserControls.UC_Proyek.resources
+D:\VIRZA\Projek\Puri Suma Surabaya\Puri Suma Surabaya\obj\Release\Puri Suma Surabaya.csproj.GenerateResource.Cache
